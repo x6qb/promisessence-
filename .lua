@@ -108,4 +108,4 @@ getgenv().Promisessence = {
         }
     }
  }
-loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/5a56bfb0211372d2648edf59d3607984.lua"))()
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/6a2096b6b4e7f0e348b61983370e92d2.lua"))()
